@@ -5,6 +5,7 @@ A portfolio-ready UI and API automation framework built with Playwright and Type
 ## What it covers
 
 - UI login tests against SauceDemo
+- Cart add/remove flow with reusable page objects
 - Page Object Model (`src/pages`)
 - API test with an API client (`src/api`)
 - Trace, screenshot, and video on failure
